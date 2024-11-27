@@ -96,15 +96,6 @@ window.onkeypress(paddle_a_up, "w")
 window.listen()
 window.onkeypress(paddle_a_down, "s")
 
-
-
-#window.onkeypress(paddle_b_up, "Up")
-#window.listen()
-#window.onkeypress(paddle_b_down, "Down")
-#window.listen()
-
-
-
 #Main game loop
 while True:
      window.update()
